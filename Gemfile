@@ -67,8 +67,8 @@ group :test do
   gem "selenium-webdriver"
 end
 
-<<<<<<< コンフリクトB
+
 gem 'pry-rails'
-=======
+
 gem 'devise'
->>>>>>> main
+
